@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## VS Code Necessary Packages
 
 You can use the [editor on GitHub](https://github.com/akashcsem/vscode-pack/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
